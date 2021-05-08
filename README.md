@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  cobalt: {
+    title_color: "e683d9",
+    icon_color: "0480ef",
+    text_color: "75eeb2",
+    bg_color: "193549",
+  }
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=captainlee1024&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=captainlee1024&show_icons=true&icon_color=0480ef&text_color=75eeb2&bg_color=193549&hide_title=false&title_color=e683d9" />
 
 ### ✨Welcome to visit✨
 
