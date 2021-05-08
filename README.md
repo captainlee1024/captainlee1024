@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 644052732@qq.com
 - 😄 Pronouns: Rustacean who can't write blockchain is not a good gopher!
 <!--- :ram: Founder the ...-->
+
+### ✨Welcome to visit✨
+
+<table border="0">
+   <tr>
+       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainlee1024&layout=compact&hide=VHDL,javascript&langs_count=8"></td>
+       <td><img src="https://github-readme-stats.vercel.app/api?username=captainlee1024&count_private=true&show_icons=true&theme=cobalt"></td>
+   </tr>
+</table>
