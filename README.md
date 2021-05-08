@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### ✨Welcome to visit✨
 
-<table border="0">
+<table border="0" rules=none>
    <tr>
        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainlee1024&layout=compact&hide=VHDL,javascript&langs_count=8"></td>
        <td><img src="https://github-readme-stats.vercel.app/api?username=captainlee1024&count_private=true&show_icons=true&theme=cobalt"></td>
