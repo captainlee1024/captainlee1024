@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 ### ✨Hi GAYHUB✨
 
 - :orange_book: Focusing on BlockChain、Rust and Golang
-- :hammer: Creator of applications and frameworks
+- :hammer: Creator of the underlying platform and framework of blockchain
 - :ram: Founder the ...
-- :meat_on_bone: Meat lover
 - 📫 How to reach me: 644052732@qq.com
 - 😄 Pronouns: Rustacean who can't write blockchain is not a good gopher!
