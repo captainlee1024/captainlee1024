@@ -30,7 +30,4 @@ Here are some ideas to get you started:
        <td><img src="https://github-readme-stats.vercel.app/api?username=captainlee1024&count_private=true&show_icons=true&theme=cobalt"></td>
    </tr>
 </table>
-<div>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainlee1024&layout=compact&hide=VHDL,javascript&langs_count=8"></td>
-       <img src="https://github-readme-stats.vercel.app/api?username=captainlee1024&count_private=true&show_icons=true&theme=cobalt"></td>
 </div>
