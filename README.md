@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### ✨Welcome to visit✨
 - :orange_book: Focusing on BlockChain、Rust and Golang
 - :hammer: Creator of the underlying platform of blockchain
-- 📫 How to reach me: 644052732@qq.com
+- 📫 How to reach me: 644052732@qq.com, lthtenghui@gmail.com
 - 😄 Pronouns: Rustacean who can't write blockchain is not a good gopher!
 <!--- :ram: Founder the ...-->
 
