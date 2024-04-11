@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=captainlee1024&show_icons=true&icon_color=0480ef&text_color=75eeb2&bg_color=193549&hide_title=false&title_color=e683d9" /> -->
 
 ### ✨Welcome to visit✨
-- :orange_book: [Eigen_Network Contributor](https://twitter.com/Eigen_Network) [ChainMaker Contributor](https://chainmaker.org.cn/home) Focusing on Rust、Golang and BlockChain(ZK-Rollup, Substrate, Cosmos-SDK, IBC, Solidity, Revm, Reth, Move...)
-- :hammer: Creator of the underlying platform of blockchain, zk_vm, zk-rollup, layer2
+- :hammer: [Eigen_Network](https://twitter.com/Eigen_Network) Contributor. [ChainMaker](https://chainmaker.org.cn/home) Contributor. 
+- :orange_book: Focusing on Rust、Golang and BlockChain(ZK-Rollup, Substrate, Cosmos-SDK, IBC, Solidity, Revm, Reth, Move...)
+
 - 📫 How to reach me: 644052732@qq.com, lthtenghui@gmail.com
 - 😄 Pronouns: Rustacean who can't write blockchain is not a good gopher!
 <!--- :ram: Founder the ...-->
