@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - :hammer: [Eigen_Network](https://twitter.com/Eigen_Network) Contributor. [ChainMaker](https://chainmaker.org.cn/home) Contributor. 
 - :orange_book: Focusing on Rust、Golang and BlockChain(ZK-Rollup, Substrate, Cosmos-SDK, IBC, Solidity, Revm, Reth, Move...)
 
-- 📫 How to reach me: 644052732@qq.com, lthtenghui@gmail.com
+- 📫 How to reach me: lthtenghui@gmail.com, 644052732@qq.com
 - 😄 Pronouns: Rustacean who can't write blockchain is not a good gopher!
 <!--- :ram: Founder the ...-->
 
