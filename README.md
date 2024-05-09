@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=captainlee1024&show_icons=true&icon_color=0480ef&text_color=75eeb2&bg_color=193549&hide_title=false&title_color=e683d9" /> -->
 
 ### ✨Welcome to visit✨
-- :hammer: [Eigen_Network](https://twitter.com/Eigen_Network) Contributor. [ChainMaker](https://chainmaker.org.cn/home) Committer. 
+- :hammer: [Eigen_Network](https://twitter.com/Eigen_Network) Committer. [ChainMaker](https://chainmaker.org.cn/home) Committer. 
 - :orange_book: Focusing on Rust、Golang and BlockChain(ZK-Rollup, Substrate, Cosmos-SDK, IBC, Solidity, Revm, Reth, Move...)
 
 - 📫 How to reach me: terry@ieigen.com, lthtenghui@gmail.com, 644052732@qq.com
