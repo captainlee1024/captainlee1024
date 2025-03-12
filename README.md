@@ -30,8 +30,8 @@ Here are some ideas to get you started:
       <a href="#TOP">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainlee1024&layout=compact&hide=VHDL,javascript&langs_count=8&hide_border=true&theme=gruvbox" stype="color:gray;cursor:pointer;pointer-events:none;">
       </a>
-    </td>
-    <td> -->
+    </td> -->
+    <td>
       <a href="#TOP">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainlee1024&layout=compact&hide=VHDL,javascript&hide_border=true&theme=gruvbox" stype="color:gray;cursor:pointer;pointer-events:none;">
       </a>
