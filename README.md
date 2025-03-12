@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### ✨Welcome to visit✨
 - :hammer: [Eigen_Network](https://twitter.com/Eigen_Network) Committer. [ChainMaker](https://chainmaker.org.cn/home) Committer. 
-- :orange_book: Focusing on Rust、Golang and BlockChain(ZK-Rollup, Substrate, Cosmos-SDK, IBC, Solidity, Revm, Reth, Solana, Move...)
+- :orange_book: Focusing on Rust、Golang and BlockChain(ZK-Rollup, Substrate, Cosmos-SDK, IBC, Solidity, Foundry, Revm, Reth, Solana, Move...)
 
 - 📫 How to reach me: lthtenghui@gmail.com, 644052732@qq.com
 - 😄 Pronouns: Rustacean who can't write blockchain is not a good gopher!
