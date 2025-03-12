@@ -32,12 +32,12 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td>
-      <a href="#TOP">
+<!--       <a href="#TOP">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainlee1024&layout=compact&hide=VHDL,javascript&hide_border=true&theme=gruvbox" stype="color:gray;cursor:pointer;pointer-events:none;">
       </a>
     </td>
     <td>
-      <a href="#TOP">
+      <a href="#TOP"> -->
         <img src="https://github-readme-stats.vercel.app/api?username=captainlee1024&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" stype="color:gray;cursor:pointer;pointer-events:none;">
       </a>
     </td>
